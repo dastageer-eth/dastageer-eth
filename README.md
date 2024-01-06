@@ -9,7 +9,7 @@ I have been working in web3 space for 1.5+ years now, and have building projects
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [dastageer.dev](http://dastageer.dev)
 * ✉️  You can contact me at [dy.sayed18@gmail.com](mailto:dy.sayed18@gmail.com)
-* 🧠  I'm learning Golang
+* 🧠  I'm learning Rust and Solana
 
 ### Skills
 
