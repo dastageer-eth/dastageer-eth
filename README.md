@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dastageer Sayed
 =======================================================================================================================================
 
-Ethereum | Solana | Web3 Developer
-----------------------------------
+Ethereum | Solana | Web3 Developer | MERN
+------------------------------------------
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [dy.sayed18@gmail.com](mailto:dy.sayed18@gmail.com)
